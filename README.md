@@ -34,7 +34,7 @@
     </td>
     <!-- Right Column: Project Image -->
     <td width="30%" style="vertical-align: middle; text-align: center;">
-      <img src="YOUR_IMAGE_URL_1" width="200px" style="border-radius: 8px;">
+      <img src="https://github.com/user-attachments/assets/26b5d8fc-162d-42d6-bc82-26c7467a74fa" width="200px" style="border-radius: 8px;">
     </td>
   </tr>
 
