@@ -58,9 +58,7 @@
     </td>
     <!-- Right Column: Project Image -->
     <td width="30%" style="vertical-align: middle; text-align: center;">
-      ![unnamed (1)](https://github.com/user-attachments/assets/a08799f2-8d57-4fed-b01e-4f95cbe49724)
- />
-" /> " width="400px" style="border-radius: 8px;">
+      <img width="867" height="807" alt="Screenshot 2026-02-10 at 9 11 53 PM" src="https://github.com/user-attachments/assets/43398a53-28cc-4905-b6cc-7e099996389e" />
     </td>
   </tr>
 
