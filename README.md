@@ -23,7 +23,7 @@
       <p>Founded in 2018,</p>
       <!-- Badges Section -->
       <p>
-  <a href="https://public.tableau.com/app/profile/alex.wallace8220/viz/Novus_Playworks_Marketing_Dashboard/Dashboard1">
+  <a href="https://github.com/AWallace1/Kinetiq_Profitability_Analysis">
     <kbd>
       <br>
       &nbsp;&nbsp;&nbsp; 🚀 <b>VIEW PROJECT</b> &nbsp;&nbsp;&nbsp;
