@@ -15,7 +15,28 @@
 </p>
 
 
-
+<table width="100%">
+  <tr>
+    <!-- Left Column: Text Content -->
+    <td width="70%" style="vertical-align: top; padding: 15px;">
+      <h2>Kinetiq Profitability Analysis</h2>
+      <p>Founded in 2018,</p>
+      <!-- Badges Section -->
+      <p>
+  <a href="https://public.tableau.com/app/profile/alex.wallace8220/viz/Novus_Playworks_Marketing_Dashboard/Dashboard1">
+    <kbd>
+      <br>
+      &nbsp;&nbsp;&nbsp; 🚀 <b>VIEW PROJECT</b> &nbsp;&nbsp;&nbsp;
+      <br><br>
+    </kbd>
+  </a>
+</p>
+    </td>
+    <!-- Right Column: Project Image -->
+    <td width="30%" style="vertical-align: middle; text-align: center;">
+      <img src="YOUR_IMAGE_URL_1" width="200px" style="border-radius: 8px;">
+    </td>
+  </tr>
 
 
 
